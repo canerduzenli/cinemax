@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "title": "Avengers: Infinity War",
+      "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/avengers-infinity-war.jpg"
+    },
+    {
+      "title": "The Eternals",
+      "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/eternals.jpg"
+    },
+    {
+      "title": "Toy Story 3",
+      "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/toy-story-3.jpg"
+    },
+    {
+      "title": "Titanic",
+      "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/titanic.jpg"
+    },
+    {
+      "title": "JFK",
+      "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/jfk.jpg"
+    },
+    {
+      "title": "Grand Budapest Hotel",
+      "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/the-grand-budapest-hotel.jpg"
+    },
+    {
+      "title": "Robocop",
+      "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/robocop.jpg"
+    },
+    {
+      "title": "My Cousin Vinnie",
+      "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/my-cousin-vinny.jpg"
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "img": "https://raw.githubusercontent.com/mrspecht/media/main/img/spider-man-no-way-home.jpg"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title> Cinemax </title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+  <link rel="stylesheet" href="assets/style/index.css" media="all">
+  <script src="assets/script/request.js" type="module"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <div class="title">
+        <i class="fa-solid fa-ticket"></i>
+        <h1>Tickets</h1>
+      </div>
+      <nav class="H-nav">
+        <ul>
+          <li><a href="#">Movies</a></li>
+          <li><a href="#">Theatres</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">My Account</a></li>
+        </ul>
+      </nav>
+      <div class="icon one">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+    </div>
+  </header>
+  <main>
+    <form>
+      <div class="container">
+        <div class="flex">
+          <div class="input-S">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type='text' id='name' placeholder='Movies' class='name' required>
+            <div id="movie-S"></div>
+          </div>
+          <div class="input-S">
+            <i class="fa-solid fa-location-dot"></i>
+            <input type='city' id='cities' placeholder='Cities' class='cities' required>
+            <div id="city-S"></div>
+          </div>
+          <input type='button' value='Search' class='search'>
+        </div>
+      </div>
+    </form>
+    <div class="container">
+      <h2>Now Playing...</h2>
+      <section>
+
+      </section>
+    </div>
+  </main>
+</body>
+
+</html>
